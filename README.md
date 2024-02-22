@@ -104,12 +104,19 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/90d0a0a8-f31a-4abd-bd57-a317a2009a3f)
-![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/160ac923-97c2-4760-a401-cbf2ee2fa4e4)
+![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/9af8ebd0-e818-4b56-b8da-6e555c994476)
+![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/545e26cc-d8d7-4b63-892a-f60eadac215b)
+![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/007c476c-b547-46cc-9279-d94bf67ec4f8)
+![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/50701c63-e74f-448d-afcf-697631b2a38f)
+![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/a017d006-847f-4c4b-a75a-4feb3ad4823b)
+
+
+
 
 ## Network:
 
-![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/ef18e971-2841-4cc8-ad00-45fbf6454dc7)
+![image](https://github.com/swathi22003343/Ex1-AAI/assets/120440439/3db6deae-68d9-485b-9482-04dc1c958b85)
+
 
 
 ## Result:
